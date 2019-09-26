@@ -4,6 +4,6 @@ Feature: devopsintegration
     And navigated the URL
     When user enters the username 
     And enters password
-    And click on the login
+    And click on the logins
     Then validate the login is successful
  
