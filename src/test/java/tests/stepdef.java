@@ -9,7 +9,7 @@ public class stepdef {
 @Given("the driver is launched")
 public void the_driver_is_launched() 
 	{
-	System.out.println("driver is launched");
+	
 	}
 
 @Given("navigated the URL")
